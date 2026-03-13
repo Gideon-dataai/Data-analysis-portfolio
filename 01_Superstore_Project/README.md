@@ -9,7 +9,3 @@ My first Excel project: Interactive retail sales analysis.
 - Insights on profit drivers and peaks
 
 Tools: PivotTables, Charts, Slicers, Conditional Formatting
-
-Files:
-- Superstore_Sales_Dashboard_Gideon.xlsx
-- Screenshots (see below)
